@@ -47,10 +47,10 @@
    <table>
     <td width="100%">
       <h3 align="center">
-        Pastel Weather • SheCodes Plus
+        Cute Weather • SheCodes Plus
       </h3>
       <div align="center">
-        <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
+        <a href="https://github.com/annabradberry/weather-app-updated" target="_blank">
           <img src="https://i.imgur.com/SCxpEMA.jpg" alt="weather project image" width="500" />
         </a>
       </div>
@@ -59,13 +59,13 @@
           A Weather Web Application that shows temperatures of searched cities & your current location! Front End Development Certification project for SheCodes Plus. HTML, CSS, JavaScript.
         </p>
         <span>
-	  <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
+	  <a href="https://github.com/annabradberry/weather-app-updated" target="_blank">
 	    <img src="https://img.shields.io/badge/-repo-ABA5FE?style=flat-square&logo=github&logoColor=white" alt="repository button" height="25" />
 	  </a>
-	  <a href="https://pastel-weather.netlify.app/" target="_blank">
+	  <a href="https://brilliant-sundae-7a1830.netlify.app/" target="_blank">
 	    <img src="https://img.shields.io/badge/-website-ABA5FE?style=flat-square" alt="website button" height="25"/>
 	  </a>
-	  <a href="https://www.shecodes.io/graduates/39418-breanda-barnett" target="_blank">
+	  <a href="https://www.shecodes.io/graduates/38340-anna-bradberry" target="_blank">
 	    <img src="https://img.shields.io/badge/-certificate-4D5156?style=flat-square" alt="certificate button" height="25"/>
 	  </a>
         </span>
